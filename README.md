@@ -10,7 +10,7 @@
 <div align="center">
 
 <!-- GENERATED BANNER (works out of the box) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0612,45:4c1d95,100:a855f7&height=260&section=header&text=Shreyash&fontSize=84&fontColor=f5d0fe&fontAlignY=40&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&descSize=22&descAlignY=66&animation=fadeIn" width="100%" alt="Shreyash — Code, Create, Innovate"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0612,45:4c1d95,100:a855f7&height=260&section=header&text=Shreyas hDoijad&fontSize=84&fontColor=f5d0fe&fontAlignY=40&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&descSize=22&descAlignY=66&animation=fadeIn" width="100%" alt="Shreyash — Code, Create, Innovate"/>
 
 <!-- CUSTOM BANNER (uncomment after uploading assets/banner.png, delete the one above)
 <img src="./assets/banner.png" width="100%" alt="banner"/>
