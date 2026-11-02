@@ -1,4 +1,3 @@
-# Save this file as:  .github/workflows/snake.yml  (inside your shreyashdoijad07-hash repo)
 name: Generate Snake
 
 on:
